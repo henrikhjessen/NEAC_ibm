@@ -1,0 +1,15 @@
+.Rproj.user
+.vscode
+a.out.dSYM
+ecoevo_ibm
+output
+Archive
+RPlots
+ices_dat
+saved_pops
+*.Rhistory
+*.out
+*.csv
+*.mod
+*.pdf
+*.dSYM
