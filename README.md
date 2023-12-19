@@ -7,4 +7,4 @@ Included are also R-scripts used to generate plots.
 
 Recommended compiler is **gfortran**, which was used throughout this work as part of the **gcc**, which was employed on both WSL (Ubuntu) and the MacOS Terminal. In addition to the files provided, anyone intending to compile and run this code will also need to install the NetCDF libraries created for FORTRAN: https://docs.unidata.ucar.edu/netcdf-fortran/current/
 
-No proprietary libraries were used in the model, in an attempt to keep the code operation an open.
+No proprietary libraries were used in the model, in an attempt to keep the code open-souce and freely available.
